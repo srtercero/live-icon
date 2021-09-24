@@ -1,7 +1,7 @@
 .live-icon {
   display: inline-block;
   position: relative;
-  top: calc(50% - 5px);
+  top: calc(50% - 0);
   background-color: red;
   width: 10px;
   height: 10px;
